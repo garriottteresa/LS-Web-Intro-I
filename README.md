@@ -1,6 +1,6 @@
 # Homework 1
 
-One two three
+One two three--This was my fork copy
 
 
 ## Instructions
@@ -17,7 +17,7 @@ You can open each HTML file in Chrome to view the work that you have done.  As y
 
 
 ---
-## LambdaSchool and LambdaUniversity
+## LambdaSchool and LambdaUniversity---Ad---
 
 LambdaUniversity is the CS degree of the future.  Over six months you will master CS fundamentals and learn full-stack software development.  This program is free up-front and you pay us back a portion of your salary if you earn over $50K after graduating.  Spots are limited.
 
